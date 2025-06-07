@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Marcela Ananias
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Full Stack`**
 
 <br/>
 
