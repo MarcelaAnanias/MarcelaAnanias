@@ -123,7 +123,7 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p >
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -140,7 +140,7 @@
   <br>
   <br>
   <img
-    width=90%
+    width=885
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcelaAnanias&theme=tokyonight"
   />
