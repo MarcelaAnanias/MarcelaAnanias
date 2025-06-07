@@ -140,7 +140,7 @@
   <br>
   <br>
   <img
-    width="850px"
+    width="800px"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcelaAnanias&theme=tokyonight"
   />
