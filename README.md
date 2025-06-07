@@ -127,20 +127,20 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/?username=MarcelaAnanias&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
-    height=200
-    width=325
+    height="190"
+    width="325px"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaAnanias&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <br>
   <br>
   <img
-    width=885
+    width="850px"
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcelaAnanias&theme=tokyonight"
   />
