@@ -2,6 +2,8 @@
 # 👩🏻‍💻 Marcela Ananias
 
 **`Desenvolvedora Full Stack`**
+<br/><br/>
+Apaixonada por tecnologia, bugs e café.
 
 <br/>
 
